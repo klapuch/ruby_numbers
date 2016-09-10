@@ -1,7 +1,7 @@
 require "numbers/version"
 
 module Numbers
-    class IntervalNumbers
+    class LimitedNumbers
         def initialize(from, to)
             @from = from
             @to = to
